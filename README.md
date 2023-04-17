@@ -1,3 +1,10 @@
+```
+I know there is a way to improve the script using libraries like pydub but I didn't want to depend on pydub to do that.
+Maybe I'll update sometime
+to get the seconds of a song just multiply the minute value by 60, example: 4 minutes = 240 seconds in audio_legth
+```
+
+
 # Features
 - Sends OGG audio voice feature files directly from your computer to a Discord channel
 - Does not require a smartphone
@@ -32,7 +39,3 @@ python audio_sender.py
 
 # Another versions:
 - C#: https://github.com/Reiko69420/Discord-Mobile-Audio-Sender-Windows (From Reiko)
-
-I know there is a way to improve the script using libraries like pydub but I didn't want to depend on pydub to do that.
-Maybe I'll update sometime
-to get the seconds of a song just multiply the minute value by 60, example: 4 minutes = 240 seconds in audio_legth
