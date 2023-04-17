@@ -34,7 +34,7 @@ python audio_sender.py
 
 # Notes
 - This script was tested on Windows 10 and Python 3.9.5.
-- Make sure that you have bot permissions to send messages and files in the channel specified by the channel_id variable.
+- Make sure that you have the permissions to send messages and files in the channel specified by the channel_id variable.
 - The waveform key in the json_data variable is a fake wave and can be edited if desired.
 
 # Another versions:
